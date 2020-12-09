@@ -1,6 +1,5 @@
 package geekbrains.lesson3_5gb.fuelstation;
 
-
 import geekbrains.lesson3_5gb.machines.Machine;
 import java.util.LinkedList;
 import java.util.concurrent.Semaphore;
