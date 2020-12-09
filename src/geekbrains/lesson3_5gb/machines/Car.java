@@ -1,5 +1,6 @@
 package geekbrains.lesson3_5gb.machines;
 
+
 import geekbrains.lesson3_5gb.fuelstation.FuelStation;
 
 public class Car extends Machine {
